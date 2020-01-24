@@ -1,0 +1,28 @@
+{
+  "name": "Angular-API-calls-the-right-way",
+  "version": "1.0.0",
+  "description": "If you’re creating an Angular application, one of the things you’ll need to do is make an API call. I’ll show you how to do it the right way, avoiding bugs or repeating yourself and making it easier upgrade to a new version of Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htaebi/Angular-API-calls-the-right-way.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htaebi/Angular-API-calls-the-right-way/issues"
+  },
+  "homepage": "https://github.com/htaebi/Angular-API-calls-the-right-way#readme",
+  "dependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
